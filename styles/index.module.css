@@ -1,0 +1,14 @@
+.itemList {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.firstTitle {
+    margin-top: 1rem;
+    display:flex;
+    align-items: center;
+}
+.firstTitleText {
+    flex-grow: 1;
+}
